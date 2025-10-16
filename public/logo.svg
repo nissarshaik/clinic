@@ -1,0 +1,6 @@
+<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="250" cy="250" r="250" fill="#8A1538"/>
+  <path d="M250 50C139.543 50 50 139.543 50 250C50 360.457 139.543 450 250 450C360.457 450 450 360.457 450 250C450 139.543 360.457 50 250 50Z" fill="white"/>
+  <text x="250" y="200" text-anchor="middle" font-family="Arial" font-size="48" font-weight="bold" fill="#8A1538">Q.C.D.T.C</text>
+  <path d="M200 250C200 222.386 222.386 200 250 200C277.614 200 300 222.386 300 250C300 277.614 277.614 300 250 300C222.386 300 200 277.614 200 250Z" fill="#8A1538"/>
+</svg>
